@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\bin\Debug\net6.0\Method_Overriding.exe
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\bin\Debug\net6.0\Method_Overriding.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\bin\Debug\net6.0\Method_Overriding.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\bin\Debug\net6.0\Method_Overriding.dll
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\bin\Debug\net6.0\Method_Overriding.pdb
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.dll
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\refint\Method_Overriding.dll
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.pdb
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\Method_Overriding.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Method_Overriding\Method_Overriding\Method_Overriding\obj\Debug\net6.0\ref\Method_Overriding.dll
